@@ -566,7 +566,7 @@ input:-moz-placeholder, textarea:-moz-placeholder {
 
 .slide-content h1,
 .slide-content p,
-.slide-content .slide-btn{
+.slide-content .slide-btn , .underTitle{
 	color: #fff;
 }
 .slide-title {
