@@ -568,6 +568,7 @@ input:-moz-placeholder, textarea:-moz-placeholder {
 .slide-content p,
 .slide-content .slide-btn , .underTitle{
 	color: #fff;
+    font-weight: 500
 }
 .slide-title {
     font-size: 48px;
