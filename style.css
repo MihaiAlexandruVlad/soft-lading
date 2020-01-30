@@ -2355,6 +2355,7 @@ text-decoration: none;
 -webkit-border-radius: .3em;
 transition: all .2s ease-in-out;
 font-size: 130%;
+font-family: monospace
 }
 .about-item-list
 /*
@@ -2364,14 +2365,13 @@ text-decoration:none;
 transform: scale(1.1);
 }
 */
-.list-type1 p.about-item-list:before{
+.list-type1 p.about-item-list::before{
 content: counter(li);
 counter-increment: li;
 position: absolute;
 left: -1.3em;
 top: 50%;
 margin-top: -1.3em;
-background:#0BB4CE;
 height: 2em;
 width: 2em;
 border: .3em solid #fff;
@@ -2380,7 +2380,7 @@ font-weight: bold;
 -moz-border-radius: 2em;
 -webkit-border-radius: 2em;
 border-radius: 2em;
-color:#FFF;
+color:black
 }
 
 
