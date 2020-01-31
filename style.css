@@ -1102,7 +1102,8 @@ span.users::before{
     border: 1px solid #0BB4CE;
     background: #0BB4CE;
     text-align: center;
-    color: white
+    color: white ;
+    width: 250px
 }
 footer-head-links{
     text-align: center;
