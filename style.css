@@ -1102,8 +1102,10 @@ span.users::before{
     border: 1px solid #0BB4CE;
     background: #0BB4CE;
     text-align: center;
-    color: white ;
     width: 250px
+}
+.footerBtn a{
+    color: white
 }
 footer-head-links{
     text-align: center;
