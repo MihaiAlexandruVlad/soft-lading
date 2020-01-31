@@ -1097,6 +1097,13 @@ span.users::before{
     display: block;
     transition: 0.4s;
 }
+.footerBtn{
+    padding :12px 15px;
+    border: 1px solid #0BB4CE;
+    background: #0BB4CE;
+    text-align: center;
+    color: white
+}
 .footer-list li a:hover{
     color: #0BB4CE;
     transition: 0.4s;
