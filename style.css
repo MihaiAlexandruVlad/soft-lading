@@ -1104,6 +1104,9 @@ span.users::before{
     text-align: center;
     color: white
 }
+footer-head-links{
+    text-align: center;
+}
 .footer-list li a:hover{
     color: #0BB4CE;
     transition: 0.4s;
