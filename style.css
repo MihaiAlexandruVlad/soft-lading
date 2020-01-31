@@ -2332,7 +2332,7 @@ span.email-notes{color: #42414f;
 .list-type1{
 width:90%;
 margin:35px auto;
-/*background: url('http://rockstheme.com/self-design/soft-preview/soft/img/background/bg1.jpg');*/
+background: url('https://images.unsplash.com/photo-1537775371272-d0047a51f49a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=675&q=80');
 }
 .list-type1::before{
   content: '';
