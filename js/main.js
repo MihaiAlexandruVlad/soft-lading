@@ -13,6 +13,7 @@ preloader
 /*---------------------
  TOP Menu Stick
 --------------------- */
+/*
 	var s = $("#sticker");
 	var pos = s.position();					   
 	$(window).on('scroll', function() {
@@ -24,7 +25,7 @@ preloader
 		}
 	});
 
-
+*/
 /*----------------------------
  Scrollspy js
 ------------------------------ */
