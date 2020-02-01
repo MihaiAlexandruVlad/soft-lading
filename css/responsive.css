@@ -402,9 +402,11 @@ li.threaded-comments {
     display: block;
     margin-top: 70px;
     text-align: center;
+    margin-left: auto !important;
+    margin-right: auto !important;
 }
 .slider-img > img {
-    max-width: 350px;
+    max-width: 100%;
 }
 
     
