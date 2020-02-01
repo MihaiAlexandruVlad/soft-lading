@@ -252,11 +252,12 @@ input:-moz-placeholder, textarea:-moz-placeholder {
 .section-headline h2 {
     display: inline-block;
     font-size: 34px;
-    margin-bottom: 60px;
+    margin-top: 60px;
     position: relative;
     text-transform: capitalize;
     font-weight: 600;
     font-family: 'Raleway', sans-serif;
+    color: white
 }
 .section-headline h2::after {
     border: 0.60px solid #0BB4CE;
@@ -2324,16 +2325,18 @@ span.email-notes{color: #42414f;
 
 .list-type1{
 width:90%;
-margin:35px auto
+background-image: url('img/slider/bg2.jpeg');
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+margin:35px auto;
 }
 
 .list-type1::before{
   content: '';
   display: block;
-  position: absolute;
-
+  position: absolute
 }
-
 .list-type1 ol{
 counter-reset: li;
 list-style: none;
@@ -2354,7 +2357,7 @@ padding: .4em .4em .4em 2em;
 *padding: .4em;
 margin: .5em 0;
 /*background: grey;*/
-color: black;
+color: white;
 text-decoration: none;
 -moz-border-radius: .3em;
 -webkit-border-radius: .3em;
@@ -2363,7 +2366,6 @@ font-size: 130%;
 }
 .list-type1 p.first-letter::first-letter {
   font-size: 200%;
-  color: #8A2BE2;
 }
 
 /*
