@@ -2346,8 +2346,8 @@ margin-bottom: 4em;
 .list-type1 ol ol{
 margin: 0 0 0 2em;
 }
-
 .list-type1 p{
+font-family: proxima nova,helvetica neue;
 position: relative;
 display: block;
 padding: .4em .4em .4em 2em;
