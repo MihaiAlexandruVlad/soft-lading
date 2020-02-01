@@ -2361,7 +2361,11 @@ text-decoration: none;
 transition: all .2s ease-in-out;
 font-size: 130%;
 }
-.about-item-list
+.list-type1 p.first-letter::first-letter {
+  font-size: 200%;
+  color: #8A2BE2;
+}
+
 /*
 .list-type1 p:hover{
 background: #0BB4CE;
