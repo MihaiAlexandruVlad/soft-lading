@@ -2368,7 +2368,7 @@ background: #0BB4CE;
 text-decoration:none;
 transform: scale(1.1);
 }
-*/
+
 .list-type1 p.about-item-list::before{
 content: counter(li);
 counter-increment: li;
