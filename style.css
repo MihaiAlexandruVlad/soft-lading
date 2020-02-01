@@ -257,7 +257,7 @@ input:-moz-placeholder, textarea:-moz-placeholder {
     text-transform: capitalize;
     font-weight: 600;
     font-family: 'Raleway', sans-serif;
-    color: white
+    color: black
 }
 .section-headline h2::after {
     border: 0.60px solid #0BB4CE;
@@ -2325,10 +2325,6 @@ span.email-notes{color: #42414f;
 
 .list-type1{
 width:90%;
-background-image: url('img/slider/bg2.jpeg');
-background-repeat: no-repeat;
-background-size: cover;
-background-attachment: fixed;
 margin:35px auto;
 }
 
@@ -2357,7 +2353,7 @@ padding: .4em .4em .4em 2em;
 *padding: .4em;
 margin: .5em 0;
 /*background: grey;*/
-color: white;
+color: black;
 text-decoration: none;
 -moz-border-radius: .3em;
 -webkit-border-radius: .3em;
@@ -2368,7 +2364,7 @@ font-size: 130%;
   font-size: 200%;
 }
 
-/*
+
 .list-type1 p:hover{
 background: #0BB4CE;
 text-decoration:none;
