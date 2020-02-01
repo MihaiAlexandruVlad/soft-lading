@@ -2324,8 +2324,7 @@ span.email-notes{color: #42414f;
 
 .list-type1{
 width:90%;
-margin:35px auto;
-background:url('img/slider/bg2.png') no-repeat fixed 50% 0px / cover
+margin:35px auto
 }
 
 .list-type1::before{
