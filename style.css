@@ -1092,10 +1092,11 @@ span.users::before{
     background: #f6f6f6;
 }
 .footer-list li a {
-    color: #444;
+    color: #099eb5;
     padding: 3px 0px;
     display: block;
     transition: 0.4s;
+    font-size: 20px
 }
 footer-head-links{
     text-align: center;
