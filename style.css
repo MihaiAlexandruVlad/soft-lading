@@ -256,7 +256,7 @@ input:-moz-placeholder, textarea:-moz-placeholder {
     position: relative;
     text-transform: capitalize;
     font-weight: 600;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Monda', sans-serif;
     color: black
 }
 .section-headline h2::after {
