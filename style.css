@@ -832,7 +832,7 @@ button#submit:hover {
 }
 .test-overly{
     position: absolute;
-    background:url('img/slider/bg2.jpg') no-repeat fixed 50% 0px / cover;
+    background:url('img/slider/bg2.jpg');
     top: 0;
     width: 100%;
     left: 0;
@@ -984,7 +984,7 @@ input {
 /* 11. Pricing Area
 /*----------------------------------------*/
 .pricing-area {
-    background: #f9f9f9;
+    /*background: #f9f9f9;*/
 }
 .pricing-content {
     margin-top: 50px;
