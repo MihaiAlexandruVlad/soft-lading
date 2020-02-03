@@ -142,7 +142,7 @@ a:hover, a:focus {
 }
 body {
 	/*background: #fff none repeat scroll 0 0;*/
-    background-image: url('../img/slider/bg2.jpg');
+    background-image: url('img/slider/bg2.jpg');
 	color: #444;
     font-family: 'Open Sans', sans-serif;
     font-size: 15px;
@@ -582,7 +582,7 @@ input:-moz-placeholder, textarea:-moz-placeholder {
 /* 4. Services Area
 /*--------------------------------*/
 .services-area {
-    background: #f9f9f9 none repeat scroll 0 0;
+    /*background: #f9f9f9 none repeat scroll 0 0;*/
     display: block;
     overflow: hidden;
 }
@@ -832,7 +832,7 @@ button#submit:hover {
 }
 .test-overly{
     position: absolute;
-    background:url('img/slider/bg2.png') no-repeat fixed 50% 0px / cover;
+    background:url('img/slider/bg2.jpg') no-repeat fixed 50% 0px / cover;
     top: 0;
     width: 100%;
     left: 0;
