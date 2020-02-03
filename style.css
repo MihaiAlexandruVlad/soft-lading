@@ -141,8 +141,7 @@ a:hover, a:focus {
     outline: none;
 }
 body {
-	/*background: #fff none repeat scroll 0 0;*/
-    background-image: url('img/slider/bg3.png');
+    background:linear-gradient( #0bb6d0 ,rgba(11, 182, 208, 0.56)), url('img/slider/bg3.png');
 	color: #444;
     font-family: 'Open Sans', sans-serif;
     font-size: 15px;
@@ -832,7 +831,7 @@ button#submit:hover {
 }
 .test-overly{
     position: absolute;
-    background:url('img/slider/bg3.png');
+    background:linear-gradient( #0bb6d0 ,rgba(11, 182, 208, 0.56)), url('img/slider/bg3.png');
     top: 0;
     width: 100%;
     left: 0;
