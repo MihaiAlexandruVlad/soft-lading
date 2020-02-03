@@ -142,7 +142,7 @@ a:hover, a:focus {
 }
 body {
 	/*background: #fff none repeat scroll 0 0;*/
-    background-image: url('img/slider/bg2.jpg');
+    background-image: url('img/slider/bg3.png');
 	color: #444;
     font-family: 'Open Sans', sans-serif;
     font-size: 15px;
@@ -832,7 +832,7 @@ button#submit:hover {
 }
 .test-overly{
     position: absolute;
-    background:url('img/slider/bg2.jpg');
+    background:url('img/slider/bg3.png');
     top: 0;
     width: 100%;
     left: 0;
