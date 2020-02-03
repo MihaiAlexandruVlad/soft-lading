@@ -837,6 +837,11 @@ button#submit:hover {
     left: 0;
     height: 100%;
 }
+#bodyLayer{
+    width: 100%;
+    height: inherit;
+    background-color:blue; 
+}
 .single-testi {
     padding: 30px 20px;
     position: relative;
