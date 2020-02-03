@@ -54,9 +54,6 @@ html, body {
 	height: 100%;
     width: 100%
 }
-body{
-    background-image: url('../img/slider/bg2.jpg');
-}
 .floatleft {
 	float:left;
 }
@@ -144,7 +141,8 @@ a:hover, a:focus {
     outline: none;
 }
 body {
-	background: #fff none repeat scroll 0 0;
+	/*background: #fff none repeat scroll 0 0;*/
+    background-image: url('../img/slider/bg2.jpg');
 	color: #444;
     font-family: 'Open Sans', sans-serif;
     font-size: 15px;
