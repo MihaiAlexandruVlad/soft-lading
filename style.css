@@ -54,6 +54,9 @@ html, body {
 	height: 100%;
     width: 100%
 }
+body{
+    background-image: url('../img/slider/bg2.jpg');
+}
 .floatleft {
 	float:left;
 }
