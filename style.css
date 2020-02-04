@@ -141,7 +141,7 @@ a:hover, a:focus {
     outline: none;
 }
 body {
-    background:linear-gradient( rgba(11, 182, 208, 0.37) ,rgba(11, 182, 208, 0.24)), url('img/slider/bg3.png');
+    background:/*linear-gradient( rgba(11, 182, 208, 0.37) ,rgba(11, 182, 208, 0.24)), */url('img/slider/bg3.png');
 	color: #444;
     font-family: 'Open Sans', sans-serif;
     font-size: 15px;
@@ -831,16 +831,18 @@ button#submit:hover {
 }
 .test-overly{
     position: absolute;
-    background:linear-gradient( rgba(11, 182, 208, 0.37) ,rgba(11, 182, 208, 0.24)), url('img/slider/bg3.png');
+    background:/*linear-gradient( rgba(11, 182, 208, 0.37) ,rgba(11, 182, 208, 0.24)),*/ url('img/slider/bg3.png');
     top: 0;
     width: 100%;
     left: 0;
     height: 100%;
 }
 #bodyLayer{
-    width: 100%;
-    height: inherit;
-    background-color:blue; 
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%; 
+  background-color:#0bb4ce2e; 
 }
 .single-testi {
     padding: 30px 20px;
