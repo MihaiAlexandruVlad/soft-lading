@@ -598,7 +598,7 @@ input:-moz-placeholder, textarea:-moz-placeholder {
 }
 .services-details {
     border: none;
-    padding: 15px 15px;
+    padding:39px 9px;
     margin-top: 30px;
     background: #fff;
     box-shadow: 3px 3px 5px #ddd, -3px -3px 5px #ddd;
