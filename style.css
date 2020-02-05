@@ -831,10 +831,10 @@ button#submit:hover {
 }
 .test-overly{
     position: absolute;
-    background: linear-gradient(
+    background: /*linear-gradient(
       #fcf8e3c4, 
       #fcf8e3c4
-    ), url('img/slider/bg3.jpeg');
+    ), */ url('img/slider/bg3.jpeg');
     top: 0;
     width: 100%;
     left: 0;
@@ -845,7 +845,7 @@ button#submit:hover {
   top: 0;
   left: 0;
   width: 100%; 
-  background-color:#fcf8e3c4;
+  /*background-color:#fcf8e3c4;*/
 }
 .single-testi {
     padding: 30px 20px;
