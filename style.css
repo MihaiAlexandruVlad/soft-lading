@@ -259,7 +259,6 @@ input:-moz-placeholder, textarea:-moz-placeholder {
     color: black
 }
 .section-headline h2::after {
-    border: 0.60px solid #0BB4CE;
     bottom: -20px;
     content: "";
     left: 0;
