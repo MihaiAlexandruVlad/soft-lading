@@ -141,7 +141,6 @@ a:hover, a:focus {
     outline: none;
 }
 body {
-    background:white;
 	color: #444;
     font-family: 'Open Sans', sans-serif;
     font-size: 15px;
@@ -2333,8 +2332,6 @@ span.email-notes{color: #42414f;
 .list-type1{
 width:90%;
 margin:35px auto;
-background:url(img/slider/bg2.png);
-background-size: cover;
 }
 
 .list-type1::before{
