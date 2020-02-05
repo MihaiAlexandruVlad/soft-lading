@@ -141,7 +141,7 @@ a:hover, a:focus {
     outline: none;
 }
 body {
-    background:url('img/slider/bg3.jpeg');
+    background:url('img/slider/bg3.jpg');
 	color: #444;
     font-family: 'Open Sans', sans-serif;
     font-size: 15px;
@@ -826,7 +826,7 @@ button#submit:hover {
    9.Reviews Area Css
 ----------------------------------------*/
 .testimonial-area{
-    background: url(img/background/bg3.jpeg);
+    background: url(img/background/bg3.jpg);
     position: relative;
 }
 .test-overly{
@@ -834,7 +834,7 @@ button#submit:hover {
     background: /*linear-gradient(
       #fcf8e3c4, 
       #fcf8e3c4
-    ), */ url('img/slider/bg3.jpeg');
+    ), */ url('img/slider/bg3.jpg');
     top: 0;
     width: 100%;
     left: 0;
