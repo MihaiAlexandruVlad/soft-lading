@@ -608,9 +608,9 @@ input:-moz-placeholder, textarea:-moz-placeholder {
     margin: 20px 0px 30px;
 }
 .single-services > h4 {
-    font-size: 20px;
+    font-size: 21px;
     text-transform: capitalize;
-    font-weight: 460;
+    font-weight: 500;
 }
 .single-services:hover .services-icon{
     color: #0BB4CE;
