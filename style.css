@@ -598,8 +598,7 @@ input:-moz-placeholder, textarea:-moz-placeholder {
 }
 .services-details {
     border: none;
-    padding:37px 2px;
-    width: 280px;
+    padding:40px 1px;
     margin-top: 30px;
     background: #fff;
     box-shadow: 3px 3px 5px #ddd, -3px -3px 5px #ddd;
@@ -609,9 +608,9 @@ input:-moz-placeholder, textarea:-moz-placeholder {
     margin: 20px 0px 30px;
 }
 .single-services > h4 {
-    font-size: 18px;
+    font-size: 25px;
     text-transform: capitalize;
-    font-weight: 400;
+    font-weight: 450;
 }
 .single-services:hover .services-icon{
     color: #0BB4CE;
