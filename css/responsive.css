@@ -138,7 +138,7 @@
     display: block;
 }
 .header-area .nav.navbar-nav.navbar-right{
-    background-color: #444;
+    background-color: white;
     margin-top:-2px;
 }
 .header-area.stick .nav.navbar-nav.navbar-right{
