@@ -141,6 +141,11 @@ a:hover, a:focus {
     outline: none;
 }
 body {
+    background: url(img/slider/bg3.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 	color: #444;
     font-family: 'Open Sans', sans-serif;
     font-size: 15px;
@@ -824,12 +829,10 @@ button#submit:hover {
    9.Reviews Area Css
 ----------------------------------------*/
 .testimonial-area{
-    background: white;
     position: relative;
 }
 .test-overly{
     position: absolute;
-    background:white;
     top: 0;
     width: 100%;
     left: 0;
