@@ -523,9 +523,8 @@ input:-moz-placeholder, textarea:-moz-placeholder {
     height: 100%;
 }
 .slider-img {
-    margin-top: auto;
-    margin-bottom: 80px;
-    margin-left: 30%
+    margin-top: 40px;
+    
 }
 .top-content .slide-content {
     margin-top: 150px;
@@ -1072,7 +1071,16 @@ span.users::before{
     text-transform: capitalize;
     transition: all 0.4s ease 0s;
 }
-.table-list ol {
+.table-list ol li.without-line:after{
+    content: "\f00c";
+    font-family: fontawesome;
+    font-size: 14px;
+    position: absolute;
+    left: 10%;
+    top: 12px;
+    color: #0BB4CE;
+}
+.table-list ol{
     list-style: outside none none;
     margin: 0;
     padding: 0;
