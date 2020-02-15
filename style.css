@@ -1437,8 +1437,9 @@ footer-head-links{
 }
 .breadcrumb.text-center {
     padding: 70px 0px 0px;
-    background-color: transparent;
+    background-color: #fff;
     margin-bottom: 0;
+    color: black
 }
 .breadcrumb ul {
     text-align: left;
@@ -1447,8 +1448,8 @@ footer-head-links{
 }
 .breadcrumb ul li {
     display: inline-block;
-    color: #fff;
-    padding: 0px 15px;
+    color: black;
+    padding: 16px 5px;
     position: relative;
     font-size: 12px;
     text-transform: uppercase;
@@ -1465,7 +1466,7 @@ footer-head-links{
 }
 .header-overlay {
     position: absolute;
-    background: rgba(0, 0, 0, 0.6);
+    background: #fff;
     top: 0;
     width: 100%;
     left: 0;
