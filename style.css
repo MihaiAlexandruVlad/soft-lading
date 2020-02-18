@@ -2385,13 +2385,19 @@ font-size: 22px
   font-size: 230%;
   font-family: 'Pinyon Script', cursive;
 }
+.about-item-list:before {
+  content: '✓';
+  font-size: 25px;
+  color: #0BB4CE
+}
+
 /*
 .list-type1 p:hover{
 background: #0BB4CE;
 text-decoration:none;
 transform: scale(1.1);
 }
-*/
+
 .about-item{
   list-style-image: url(img/icon/check-mark.png) !important;
 }
