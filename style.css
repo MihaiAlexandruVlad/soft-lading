@@ -2389,20 +2389,16 @@ background: #0BB4CE;
 text-decoration:none;
 transform: scale(1.1);
 }
-
+*/
 .list-type1 p.about-item-list::before{
-content: counter(li);
-counter-increment: li;
-position: absolute;
+content: url(img/icon/check-mark.png);
 left: -1.3em;
 top: 50%;
 margin-top: -1.3em;
-height: 2em;
-width: 2em;
-border: 4px solid black;
+height: 0.6em;
+width: 0.6em;
 text-align: center;
-font-weight: bold;
-color:black
+
 }
 
 
