@@ -141,17 +141,19 @@ a:hover, a:focus {
     outline: none;
 }
 body {
-    background: url(img/slider/bg3.png) no-repeat center center fixed; 
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
 	color: #444;
     font-family: 'Open Sans', sans-serif;
     font-size: 15px;
 	text-align: left;
 	overflow-x: hidden;
 	line-height: 22px;
+}
+body#home{
+    background: url(img/slider/bg3.png) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 #scrollUp {
     background: #ef435a none repeat scroll 0 0;
