@@ -2392,15 +2392,9 @@ text-decoration:none;
 transform: scale(1.1);
 }
 */
-.list-type1 p.about-item-list::before{
-content: url(img/icon/check-mark.png);
-left: -1.3em;
-top: 50%;
-margin-top: -1.3em;
-height: 0.6em;
-width: 0.6em;
-text-align: center;
-
+ol.about-item{
+list-style-position: outside;
+list-style-image: url(img/icon/check-mark.png)
 }
 
 
