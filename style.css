@@ -2392,9 +2392,8 @@ text-decoration:none;
 transform: scale(1.1);
 }
 */
-ol.about-item{
-list-style-position: outside;
-list-style-image: url(img/icon/check-mark.png)
+.about-item{
+  list-style-image: url(img/icon/check-mark.png) !important;
 }
 
 
