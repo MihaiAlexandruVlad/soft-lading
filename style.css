@@ -1063,8 +1063,8 @@ span.users::before{
     font-weight: 700;
     font-size: 14px;
     padding: 12px 30px;
-    background: #0BB4CE;
-    border: 1px solid #0BB4CE;
+    background: rgb(0,188,242);
+    border: 1px solid rgb(0,188,242);
     letter-spacing: 1px;
 }
 .table-list > h3 {
