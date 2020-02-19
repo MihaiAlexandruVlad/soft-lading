@@ -2387,7 +2387,7 @@ font-size: 22px
 }
 .about-item-list:before {
   content: '✓';
-  font-size: 25px;
+  font-size: 45px;
   color: #0BB4CE
 }
 
